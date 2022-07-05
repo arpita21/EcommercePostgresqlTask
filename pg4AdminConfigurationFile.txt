@@ -1,0 +1,2 @@
+Note:
+pg4AdminConnection.png image has configuration of the postgrelsq pg4admin  database , just change the database ,user and password  field only in the db.config file found in the project folder under app/config directory. 
